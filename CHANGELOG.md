@@ -1,3 +1,8 @@
+## <small>5.0.142 (2021-02-19)</small>
+
+
+
+
 ## <small>5.0.141 (2021-02-11)</small>
 
 * Allow clientMetadataID to be passed into button render ([01d90b4](https://github.com/paypal/paypal-checkout-components/commit/01d90b4))
